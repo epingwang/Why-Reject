@@ -91,6 +91,10 @@
 - App中有IAP内购，但是没有恢复内购的按钮
 - 强制玩家给App评5星好评
 - 没有兼容iOS
+- APP内的抽奖活动没有提到“本活动与苹果公司（Apple Inc）无关” 
+- 第三方登录（微博、QQ等）在未安装APP时会弹出下载微博/QQ的页面
+- 图标和其他APP类似（用了穿了衣服的Octocat）
+- 横屏时界面显示不完全
 
 ## 说明
 - 欢迎 [Fork本项目](https://github.com/jcccn/Why-Reject/fork) 来一起完善
